@@ -2,6 +2,3 @@ node_modules/*
 coverage/*
 
 memo.txt
-
-src/async.ts
-src/test/async.test.ts
